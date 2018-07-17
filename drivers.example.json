@@ -1,0 +1,108 @@
+{
+    "VET": {
+        "position": 1,
+        "long": "Sebastian Vettel",
+        "points": 171,
+        "token": ""
+    },
+    "HAM": {
+        "position": 2,
+        "long": "Lewis Hamilton",
+        "points": 163,
+        "token": ""
+    },
+    "RAI": {
+        "position": 3,
+        "long": "Kimi Räikkönen",
+        "points": 116,
+        "token": ""
+    },
+    "RIC": {
+        "position": 4,
+        "long": "Daniel Ricciardo",
+        "points": 106,
+        "token": ""
+    },
+    "BOT": {
+        "position": 5,
+        "long": "Valtteri Bottas",
+        "points": 171,
+        "token": ""
+    },
+    "VER": {
+        "position": 6,
+        "long": "Max Verstappen",
+        "points": 93,
+        "token": ""
+    },
+    "HUL": {
+        "long": "Nico Hülkenberg",
+        "points": 171,
+        "token": ""
+    },
+    "ALO": {
+        "long": "Fernando Alonso",
+        "points": 171,
+        "token": ""
+    },
+    "MAG": {
+        "long": "Kevin Magnussen",
+        "points": 171,
+        "token": ""
+    },
+    "SAI": {
+        "long": "Carlos Sainz Jr",
+        "points": 171,
+        "token": ""
+    },
+    "OCO": {
+        "long": "Esteban Ocon",
+        "points": 171,
+        "token": ""
+    },
+    "PER": {
+        "long": "Siergo Pérez",
+        "points": 171,
+        "token": ""
+    },
+    "GAS": {
+        "long": "Pierre Gasly",
+        "points": 171,
+        "token": ""
+    },
+    "LEC": {
+        "long": "Charles Leclerc",
+        "points": 171,
+        "token": ""
+    },
+    "GRO": {
+        "long": "Romain Grosjean",
+        "points": 171,
+        "token": ""
+    },
+    "VAN": {
+        "long": "Stoffel Vandoorne",
+        "points": 171,
+        "token": ""
+    },
+    "STR": {
+        "long": "Lance Stroll",
+        "points": 171,
+        "token": ""
+    },
+    "ERI": {
+        "long": "Markus Ericsson",
+        "points": 171,
+        "token": ""
+    },
+    "HAR": {
+        "long": "Brendon Hartley",
+        "points": 171,
+        "token": ""
+    },
+    "SIR": {
+        "long": "Sergey Sirotkin",
+        "points": 171,
+        "token": ""
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "concurrently": "^3.6.0",
+    "discord.js": "^11.3.2"
+  },
+  "name": "f1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "concurrently \"node driver.js VET\" \"node driver.js HAM\" \"node driver.js RAI\" \"node driver.js RIC\" \"node driver.js BOT\" \"node driver.js VER\" \"node driver.js HUL\" \"node driver.js ALO\" \"node driver.js MAG\" \"node driver.js SAI\" \"node driver.js OCO\" \"node driver.js PER\" \"node driver.js GAS\" \"node driver.js LEC\" \"node driver.js GRO\" \"node driver.js VAN\" \"node driver.js STR\" \"node driver.js ERI\" \"node driver.js HAR\" \"node driver.js SIR\""
+  },
+  "author": "Julien Gelmar <julien@gelmar.app>",
+  "license": "MIT",
+  "description": ""
+}
