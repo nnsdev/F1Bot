@@ -12,7 +12,8 @@ client.on('ready', () => {
         status: 'online'
     });
     client.on("message", message => {
-        message.guild.members.find("id", client.user.id).setNickname(driver.position + '. ' + driver.long);
+        let pos = (driver.position < 10) ? "0" + driver.position : driver.position;
+        message.guild.members.find("id", client.user.id).setNickname(pos + '. ' + driver.long);
     });
 });
 
