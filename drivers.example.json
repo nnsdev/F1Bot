@@ -1,108 +1,122 @@
 {
-    "VET": {
-        "position": 1,
-        "long": "Sebastian Vettel",
-        "points": 171,
-        "token": ""
-    },
     "HAM": {
-        "position": 2,
+        "position": 1,
         "long": "Lewis Hamilton",
-        "points": 163,
+        "points": 331,
         "token": ""
     },
-    "RAI": {
-        "position": 3,
-        "long": "Kimi Räikkönen",
-        "points": 116,
-        "token": ""
-    },
-    "RIC": {
-        "position": 4,
-        "long": "Daniel Ricciardo",
-        "points": 106,
+    "VET": {
+        "position": 2,
+        "long": "Sebastian Vettel",
+        "points": 264,
         "token": ""
     },
     "BOT": {
-        "position": 5,
+        "position": 3,
         "long": "Valtteri Bottas",
-        "points": 171,
+        "points": 207,
+        "token": ""
+    },
+    "RAI": {
+        "position": 4,
+        "long": "Kimi Räikkönen",
+        "points": 196,
         "token": ""
     },
     "VER": {
-        "position": 6,
+        "position": 5,
         "long": "Max Verstappen",
-        "points": 93,
+        "points": 173,
         "token": ""
     },
-    "HUL": {
-        "long": "Nico Hülkenberg",
-        "points": 171,
-        "token": ""
-    },
-    "ALO": {
-        "long": "Fernando Alonso",
-        "points": 171,
-        "token": ""
-    },
-    "MAG": {
-        "long": "Kevin Magnussen",
-        "points": 171,
-        "token": ""
-    },
-    "SAI": {
-        "long": "Carlos Sainz Jr",
-        "points": 171,
-        "token": ""
-    },
-    "OCO": {
-        "long": "Esteban Ocon",
-        "points": 171,
+    "RIC": {
+        "position": 6,
+        "long": "Daniel Ricciardo",
+        "points": 143,
         "token": ""
     },
     "PER": {
+        "position": 7,
         "long": "Sergio Pérez",
-        "points": 171,
+        "points": 53,
         "token": ""
     },
-    "GAS": {
-        "long": "Pierre Gasly",
-        "points": 171,
+    "MAG": {
+        "position": 8,
+        "long": "Kevin Magnussen",
+        "points": 53,
         "token": ""
     },
-    "LEC": {
-        "long": "Charles Leclerc",
-        "points": 171,
+    "HUL": {
+        "position": 9,
+        "long": "Nico Hülkenberg",
+        "points": 53,
+        "token": ""
+    },
+    "ALO": {
+        "position": 10,
+        "long": "Fernando Alonso",
+        "points": 50,
+        "token": ""
+    },
+    "OCO": {
+        "position": 11,
+        "long": "Esteban Ocon",
+        "points": 49,
+        "token": ""
+    },
+    "SAI": {
+        "position": 12,
+        "long": "Carlos Sainz Jr",
+        "points": 39,
         "token": ""
     },
     "GRO": {
+        "position": 13,
         "long": "Romain Grosjean",
-        "points": 171,
+        "points": 31,
+        "token": ""
+    },
+    "GAS": {
+        "position": 14,
+        "long": "Pierre Gasly",
+        "points": 28,
+        "token": ""
+    },
+    "LEC": {
+        "position": 15,
+        "long": "Charles Leclerc",
+        "points": 21,
         "token": ""
     },
     "VAN": {
+        "position": 16,
         "long": "Stoffel Vandoorne",
-        "points": 171,
+        "points": 8,
         "token": ""
     },
     "STR": {
+        "position": 17,
         "long": "Lance Stroll",
-        "points": 171,
+        "points": 6,
         "token": ""
     },
     "ERI": {
+        "position": 18,
         "long": "Marcus Ericsson",
-        "points": 171,
+        "points": 5,
         "token": ""
     },
     "HAR": {
+        "position": 19,
         "long": "Brendon Hartley",
-        "points": 171,
+        "points": 2,
         "token": ""
     },
     "SIR": {
+        "position": 20,
         "long": "Sergey Sirotkin",
-        "points": 171,
+        "points": 1,
         "token": ""
     }
 }

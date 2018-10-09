@@ -13,8 +13,13 @@ client.on('ready', () => {
     });
     client.on("message", message => {
         let pos = (driver.position < 10) ? "0" + driver.position : driver.position;
-        message.guild.members.find("id", client.user.id).setNickname(pos + '. ' + driver.long);
+        if(message.guild !== undefined) {
+            message.guild.members.find("id", client.user.id).setNickname(pos + '. ' + driver.long);
+        }
     });
+});
+client.on('error', () => {
+    console.log('Discord is having issues, please hang on...');
 });
 
 client.login(driver.token);
